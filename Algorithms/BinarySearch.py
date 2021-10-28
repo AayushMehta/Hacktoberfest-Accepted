@@ -1,3 +1,4 @@
+# this code of binary search in array
 import array
 a = array.array('i' , []) 
 n = int(input("Enter number of elements : "))
